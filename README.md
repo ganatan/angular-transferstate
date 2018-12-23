@@ -35,7 +35,7 @@
 # SSR Compilation 
 - npm run build:ssr
 - npm run serve:ssr
-- http://localhost:4001/
+- http://localhost:4000/
 
 # Tutorials
 - https://www.ganatan.com/tutorials/angular-transfer-state
