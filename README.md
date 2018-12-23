@@ -1,17 +1,17 @@
 # angular-starter-httpclient
-- Date : 10/12/2018 15:10
+- Date : 23/12/2018 09:32
 - Author : chendra
 
 # Prerequisites
-- Angular version 7.1.2
-- Angular-cli version 7.1.2
+- Angular version 7.1.4
+- Angular-cli version 7.1.4
 - Angular universal version 7.0.2
 - Visual studio code version 1.29.1
 - Typescript version 3.1.6
 - node.js version 10.14.1 LTS (Long Term Support)
 - npm (node package manager) version 6.4.1
 - Jquery version 3.3.1
-- Bootstrap version 4.1.3
+- Bootstrap version 4.2.1
 - Fontawesome version 4.7.0
 
 # Installation
@@ -38,4 +38,5 @@
 - http://localhost:4001/
 
 # Tutorials
+- https://www.ganatan.com/tutorials/angular-transfer-state
 - https://www.ganatan.com/docs
