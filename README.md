@@ -1,5 +1,14 @@
-# angular-starter-transferstate
-- Date : 17/02/2019 10:49
+# Projects Angular-starter
+- Angular Version 7.2.5
+- Routing
+- Lazy Loading
+- Server Side rendering (angular-universal)
+- Bootstrap
+- Httpclient
+- Transfer State
+
+# Angular-starter-transferstate
+- Date : 19/02/2019 08:51
 - Author : danny ganatan
 
 # Prerequisites
