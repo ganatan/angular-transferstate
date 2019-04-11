@@ -1,4 +1,4 @@
-# Angular 7 Starter - HttpClient
+# Angular 7 Starter - Transfer State
 
 
 > An Angular starter kit featuring [Angular 7.2.12](https://angular.io), [Angular-cli 7.3.8](https://cli.angular.io/)
@@ -57,10 +57,15 @@ What you need to run this app:
 * `npm run start`
 *  in your browser [http://localhost:4200](http://localhost:4200) 
 
-### Production 
+### Production without Server Side Rendering (Ahead-of-Time)
 * `npm run build`
-* `http-server -p 8080 -c-1 dist/angular-starter`
+* `http-server -p 8080 -c-1 dist/browser`
 *  in your browser [http://localhost:8080](http://localhost:8080) 
+
+### Production with Server Side Rendering
+* `npm run build:ssr`
+* `npm run serve:ssr`
+*  in your browser [http://localhost:4000](http://localhost:4000) 
 
 ### Tests
 * `npm run lint`
