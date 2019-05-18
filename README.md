@@ -73,10 +73,10 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 16/05/2019
+* Updated : 18/05/2019
 * Author  : danny ganatan
 
-### Tutorials
+### Documentation
 * Website  : https://www.ganatan.com/angular
 * Tutorial : https://www.ganatan.com/tutorials/transfer-state-avec-angular
 
