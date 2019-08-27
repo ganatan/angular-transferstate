@@ -1,33 +1,29 @@
-# Angular 8 Starter - Transfer State
+# Angular 8 Example Transfer State
 
+> An Angular starter kit featuring [Angular 8.2.3](https://angular.io), [Angular CLI 8.3.0](https://cli.angular.io/)
 
-> An Angular starter kit featuring [Angular 8.2.3](https://angular.io), [Angular CLI 8.2.2](https://cli.angular.io/)
+> it's part of a repo series designed to create a Progressive Web App with Angular
 
-> it's part of a repo series designed to create a Progressive WebApp with Angular
+* [Step 1 : Starter](https://github.com/ganatan/angular-starter)
+* [Step 2 : Routing](https://github.com/ganatan/angular-starter-routing)
+* [Step 3 : Lazy-loading](https://github.com/ganatan/angular-starter-lazy)
+* [Step 4 : Bootstrap](https://github.com/ganatan/angular-starter-bootstrap)
+* [Step 5 : Server Side Rendering](https://github.com/ganatan/angular-starter-ssr)
+* [Step 6 : HTTP Client](https://github.com/ganatan/angular-starter-httpclient)
+* [Step 7 : Transfer State](https://github.com/ganatan/angular-starter-transferstate)
+* [Step 8 : Progressive Web App](https://github.com/ganatan/angular8-example-pwa)
 
-> [Starter](https://github.com/ganatan/angular-starter),
-[Routing](https://github.com/ganatan/angular-starter-routing),
-[Lazy-loading](https://github.com/ganatan/angular-starter-lazy),
-[Bootstrap](https://github.com/ganatan/angular-starter-bootstrap),
-[Server Side Rendering](https://github.com/ganatan/angular-starter-ssr),
-[HTTP Client](https://github.com/ganatan/angular-starter-httpclient),
-[Transfer State](https://github.com/ganatan/angular-starter-transferstate),
-[Progressive WebApp](https://github.com/ganatan/angular-starter-pwa),
-[Optimize Application](https://github.com/ganatan/angular-webapp),
-[Final Application](https://github.com/ganatan/wosiris)
-
-# Live Demo
-
-[https://www.wosiris.com](https://www.wosiris.com)
+# PWA Live Demo
+[https://angular.ganatan.com](https://angular.ganatan.com)
 
 ### Quick start
 
 ```bash
 # clone the repo
-git clone https://github.com/ganatan/angular-starter-transferstate
+git clone https://github.com/ganatan/angular-example-transferstate
 
 # change directory
-cd angular-starter-transferstate
+cd angular-example-transferstate
 
 # install the repo with npm
 npm install
@@ -44,7 +40,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 ### Prerequisites
 What you need to run this app:
 * Angular version 8.2.3
-* Angular CLI version 8.2.2
+* Angular CLI version 8.3.0
 * Visual studio code version 1.37.1
 * Typescript version 3.4.5
 * node.js version 10.16.3 LTS (Long Term Support)
@@ -52,7 +48,7 @@ What you need to run this app:
 
 * Jquery version 3.4.1
 * Bootstrap version 4.3.1
-* Fontawesome version 5.10.1
+* Fontawesome version 5.10.2
 
 ### Installation
 * `npm install` (installing dependencies)
@@ -64,8 +60,6 @@ What you need to run this app:
 
 ### Production without Server Side Rendering (Ahead-of-Time)
 * `npm run build`
-* `http-server -p 8080 -c-1 dist/browser`
-*  in your browser [http://localhost:8080](http://localhost:8080) 
 
 ### Production with Server Side Rendering
 * `npm run build:ssr`
@@ -78,13 +72,13 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 22/08/2019
+* Updated : 27/08/2019
 * Author  : danny ganatan
 
 ### Documentation
 
 guidelines in English
--  Tutorial - https://www.ganatan.com/tutorials/transfer-state-with-angular
+-  Installation - https://www.ganatan.com/tutorials/transfer-state-with-angular
 -  Tutorials Step by Step - https://www.ganatan.com/tutorials/en
 
 guidelines in French
