@@ -83,8 +83,7 @@
     "template-banana-in-box": true,
     "template-no-negated-async": true,
     "use-lifecycle-interface": true,
-    "use-pipe-transform-interface": true,
-    "no-angle-bracket-type-assertion": false
+    "use-pipe-transform-interface": true
   },
   "rulesDirectory": [
     "codelyzer"
