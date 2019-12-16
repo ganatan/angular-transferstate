@@ -2,13 +2,13 @@
 
 > An Angular starter kit featuring [Angular 8.2.14](https://angular.io), [Angular CLI 8.3.20](https://cli.angular.io/)
 
-> it's part of a repo series designed to create a Progressive Web App with Angular
+> it's part of a repo series designed to create a Web Application with Angular
 
 * [Step 1 : Example Starter](https://github.com/ganatan/angular-example-starter)
 * [Step 2 : Example Routing](https://github.com/ganatan/angular-example-routing)
 * [Step 3 : Example Lazy-loading](https://github.com/ganatan/angular-example-lazy-loading)
 * [Step 4 : Example Bootstrap](https://github.com/ganatan/angular-example-bootstrap)
-* [Step 5 : Example Features](https://github.com/ganatan/angular-features)
+* [Step 5 : Example Features](https://github.com/ganatan/angular-example-features)
 * [Step 6 : Example Server Side Rendering](https://github.com/ganatan/angular-example-ssr)
 * [Step 7 : Example HTTP Client](https://github.com/ganatan/angular-example-httpclient)
 * [Step 8 : Example Transfer State](https://github.com/ganatan/angular-example-transferstate)
@@ -19,6 +19,7 @@
 
 # Web Application Live Demo
 [https://angular.ganatan.com](https://angular.ganatan.com)
+
 
 ## Quick start
 
@@ -70,8 +71,8 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 15/12/2019
-* Author  : danny ganatan
+* Updated : 16/12/19
+* Author  : danny
 
 ### Documentation
 
