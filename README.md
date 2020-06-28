@@ -1,6 +1,6 @@
-# Angular 9 Example Transfer state
+# Angular 10 Example Transfer state
 
-> An Angular starter kit featuring [Angular 9.1.9](https://angular.io), [Angular CLI 9.1.7](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 10.0.1](https://angular.io), [Angular CLI 10.0.0](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -15,11 +15,11 @@
 * [Step 9 : Example PWA](https://github.com/ganatan/angular-example-pwa)
 * [Step 10 : Example SEO](https://github.com/ganatan/angular-example-seo)
 
-* [Step 11 : Angular 9 Application](https://github.com/ganatan/angular9-app)
+* [Step 11 : Angular 10 Application](https://github.com/ganatan/angular10-app)
 
 # Web Application Live Demo
 <a href="https://angular.ganatan.com/">
-  <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 8 Example Application"/>
+  <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 10 Example Application"/>
 </a>
 
 ## Quick start
@@ -42,12 +42,11 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Prerequisites
 What do you need to run this app:
-* Angular version 9.1.9
-* Angular CLI version 9.1.7
-* Typescript version 3.8.3
+* Angular version 10.0.1
+* Angular CLI version 10.0.0
 * Jquery version 3.4.1
-* Bootstrap version 4.4.1
-* Fontawesome version 5.12.1
+* Bootstrap version 4.5.0
+* Fontawesome version 5.13.1
 
 ## Getting Started
 
@@ -81,7 +80,7 @@ What do you need to run this app:
 * launch html pages in your browser
 
 ### Author
-* Updated : 03/06/2020
+* Updated : 27/06/2020
 * Author  : danny
 
 ### Documentation
