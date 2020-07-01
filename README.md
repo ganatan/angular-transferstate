@@ -1,6 +1,6 @@
 # Angular 10 Example Transfer state
 
-> An Angular starter kit featuring [Angular 10.0.1](https://angular.io), [Angular CLI 10.0.0](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 10.0.2](https://angular.io), [Angular CLI 10.0.0](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -42,7 +42,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Prerequisites
 What do you need to run this app:
-* Angular version 10.0.1
+* Angular version 10.0.2
 * Angular CLI version 10.0.0
 * Jquery version 3.4.1
 * Bootstrap version 4.5.0
@@ -80,7 +80,7 @@ What do you need to run this app:
 * launch html pages in your browser
 
 ### Author
-* Updated : 27/06/2020
+* Updated : 01/07/2020
 * Author  : danny
 
 ### Documentation
