@@ -1,6 +1,6 @@
 # Angular 10 Example Transfer state
 
-> An Angular starter kit featuring [Angular 10.0.14](https://angular.io), [Angular CLI 10.0.8](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 10.1.1](https://angular.io), [Angular CLI 10.1.1](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -42,8 +42,8 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Prerequisites
 What do you need to run this app:
-* Angular version 10.0.14
-* Angular CLI version 10.0.8
+* Angular version 10.1.1
+* Angular CLI version 10.1.1
 * Jquery version 3.4.1
 * Bootstrap version 4.5.1
 * Fontawesome version 5.14.0
@@ -59,9 +59,6 @@ What do you need to run this app:
 * `npm run start`
 * in your browser [http://localhost:4200](http://localhost:4200) 
 
-### Production 
-* `npm run build`
-
 ### Use Chrome version 85 min !!!!
 
 ## Tests
@@ -71,11 +68,16 @@ What do you need to run this app:
 
 ## Chrome Installation on Linux
 
+```bash
 sudo sh -c 'echo "deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list'
+
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+
 sudo apt-get update
+
 sudo apt-get install google-chrome-stable --yes
 
+```
 
 ### Compilation
 * `npm run build`       ( without SSR)
@@ -85,12 +87,17 @@ sudo apt-get install google-chrome-stable --yes
 * `npm run serve:ssr`
 * in your browser [http://localhost:4000](http://localhost:4000) 
 
-### Prototype Bootstrap
+### Prototype Bootstrap 4
 * `change directory` cd ui
 * launch html pages in your browser
 
+### Prototype Bootstrap 5.0.0-alpha1
+* `change directory` cd ui-v5
+* launch html pages in your browser
+
+
 ### Author
-* Updated : 31/08/2020
+* Updated : 15/09/2020
 * Author  : danny
 
 ### Documentation
