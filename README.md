@@ -1,6 +1,6 @@
 # Angular 10 Example Transfer state
 
-> An Angular starter kit featuring [Angular 10.2.0](https://angular.io), [Angular CLI 10.2.0](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 10.2.2](https://angular.io), [Angular CLI 10.2.0](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -71,7 +71,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * `change directory` cd ui
 * launch html pages in your browser
 
-### Prototype Bootstrap 5.0.0-alpha1
+### Prototype Bootstrap 5.0.0-alpha2
 * `change directory` cd ui-v5
 * launch html pages in your browser
 
