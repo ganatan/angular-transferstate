@@ -1,6 +1,6 @@
 # Angular 11 Example Transfer state
 
-> An Angular starter kit featuring [Angular 11.0.1](https://angular.io), [Angular CLI 11.0.2](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 11.2.10](https://angular.io), [Angular CLI 11.2.9](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -14,17 +14,17 @@
 ```bash
 # choose a repo
 # download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-example-transferstate.git
+git clone https://github.com/ganatan/angular-transferstate.git
 
 # download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-example-transferstate.git
+git clone https://gitlab.com/ganatan/angular-transferstate.git
 
 # download the example or clone the repo from bitbucket
-git clone https://bitbucket.org/ganatan/angular-example-transferstate.git
+git clone https://bitbucket.org/ganatan/angular-transferstate.git
 
 
 # change directory
-cd angular-example-transferstate
+cd angular-transferstate
 
 # install the repo with npm
 npm install
