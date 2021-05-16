@@ -1,12 +1,12 @@
-# Angular 11 Example Transfer state
+# Angular 12 Example Transfer state
 
-> An Angular starter kit featuring [Angular 11.2.10](https://angular.io), [Angular CLI 11.2.9](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 12.0.0](https://angular.io), [Angular CLI 12.0.0](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
 # Web Application Live Demo
 <a href="https://angular.ganatan.com/">
-  <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 11 Example Application"/>
+  <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 12 Example Application"/>
 </a>
 
 ## Quick start
@@ -48,9 +48,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * in your browser [http://localhost:4200](http://localhost:4200) 
 
 ## Tests
-* `npm run lint`
 * `npm run test`
-* `npm run e2e`
 
 ### Compilation
 * `npm run build`       ( without SSR)
@@ -60,12 +58,8 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * `npm run serve:ssr`
 * in your browser [http://localhost:4000](http://localhost:4000) 
 
-### Prototype Bootstrap 4
+### Prototype Bootstrap 5
 * `change directory` cd ui
-* launch html pages in your browser
-
-### Prototype Bootstrap 5.0.0-alpha3
-* `change directory` cd ui-v5
 * launch html pages in your browser
 
 
