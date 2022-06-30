@@ -6,36 +6,12 @@ import { NotFoundComponent } from './modules/general/not-found/not-found.compone
 
 const routes: Routes = [
   { path: '', component: HomeComponent, },
+
   {
     path: 'httpclient',
     loadChildren: () => import('./modules/application/items/items.module')
       .then(mod => mod.ItemsModule)
   },  
-  {
-    path: 'forms',
-    loadChildren: () => import('./modules/application/example-forms/tutorial.module')
-      .then(mod => mod.TutorialModule)
-  },
-  {
-    path: 'components',
-    loadChildren: () => import('./modules/application/example-components/tutorial.module')
-      .then(mod => mod.TutorialModule)
-  },
-  {
-    path: 'services',
-    loadChildren: () => import('./modules/application/example-services/tutorial.module')
-      .then(mod => mod.TutorialModule)
-  },
-  {
-    path: 'bootstrap',
-    loadChildren: () => import('./modules/application/example-bootstrap/tutorial.module')
-      .then(mod => mod.TutorialModule)
-  },
-  {
-    path: 'contact',
-    loadChildren: () => import('./modules/general/contact/contact.module')
-      .then(mod => mod.ContactModule)
-  },
   {
     path: 'about',
     loadChildren: () => import('./modules/general/about/about.module')
@@ -50,6 +26,33 @@ const routes: Routes = [
     path: 'signup',
     loadChildren: () => import('./modules/general/signup/signup.module')
       .then(mod => mod.SignupModule)
+  },
+
+  {
+    path: 'bootstrap',
+    loadChildren: () => import('./modules/application/example-bootstrap/tutorial.module')
+      .then(mod => mod.TutorialModule)
+  },
+  {
+    path: 'components',
+    loadChildren: () => import('./modules/application/example-components/tutorial.module')
+      .then(mod => mod.TutorialModule)
+  },
+  {
+    path: 'forms',
+    loadChildren: () => import('./modules/application/example-forms/tutorial.module')
+      .then(mod => mod.TutorialModule)
+  },
+  {
+    path: 'services',
+    loadChildren: () => import('./modules/application/example-services/tutorial.module')
+      .then(mod => mod.TutorialModule)
+  },
+
+  {
+    path: 'contact',
+    loadChildren: () => import('./modules/general/contact/contact.module')
+      .then(mod => mod.ContactModule)
   },
   { path: '**', component: NotFoundComponent }
 ];
