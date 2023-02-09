@@ -1,7 +1,7 @@
 
 **Important note**
-This functionality is no longer useful on Angular 15, the google team having resolved the malfunction.
-So this tutorial is only useful with Angular 14 or earlier versions.
+> This functionality is no longer useful on Angular 15, the google team having resolved the malfunction.
+> So this tutorial is only useful with Angular 14 or earlier versions.
 
 
 # Angular 15 and 14 Example Transfer state
