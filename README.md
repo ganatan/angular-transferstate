@@ -83,9 +83,9 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 ### Documentation
 
 English Tutorials
-- Installation - https://www.ganatan.com/tutorials/transferstate-with-angular
+- Installation - https://www.ganatan.com/tutorials/transfer-state-with-angular
 - Tutorials Step-by-Step - https://www.ganatan.com/tutorials/en
 
 Tutoriels en français
-- Installation - https://www.ganatan.com/tutorials/transferstate-avec-angular
+- Installation - https://www.ganatan.com/tutorials/transfer-state-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
