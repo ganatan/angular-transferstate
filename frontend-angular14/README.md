@@ -1,12 +1,6 @@
-Important note.
-​​​​​​​
-This functionality is no longer useful on Angular 15, the google team having resolved the malfunction.
-So this tutorial is only useful with Angular 14 or earlier versions.
+# Angular 14 Example Transfer state
 
-
-# Angular 15 and 14 Example Transfer state
-
-> An Angular starter kit featuring [Angular 15.0.1](https://angular.io), [Angular CLI 15.0.1](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 14.0.4](https://angular.io), [Angular CLI 14.0.4](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -14,7 +8,7 @@ So this tutorial is only useful with Angular 14 or earlier versions.
 <p align="center">
   <p align="center">
     <a href="https://angular.ganatan.com/">
-      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 15 Example 
+      <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 14 Example 
       Application"/>
     </a>
   </p>
