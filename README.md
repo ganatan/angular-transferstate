@@ -34,6 +34,12 @@ git clone https://gitlab.com/ganatan/angular-transferstate.git
 # change directory
 cd angular-transferstate
 
+# angular Version 14
+cd frontend-angular14
+
+# angular Version 15
+cd frontend-angular15
+
 # install the repo with npm
 npm install
 
