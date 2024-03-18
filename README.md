@@ -1,5 +1,5 @@
 
-**Important note**
+**Important note** test gb 
 > This functionality is no longer useful on Angular 15, the google team having resolved the malfunction.
 > So this tutorial is only useful with Angular 14 or earlier versions.
 
